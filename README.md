@@ -1,5 +1,5 @@
-# Excel-Challenge-by-TheMercyOlaoluwa
-Weekly real-world data analysis challenge to test your Excel data analysis skills. The challenge can also be done with any tool of your choice though. 
+# Data-Challenge-by-TheMercyOlaoluwa
+Weekly real-world data analysis challenge to test your data analysis skills. The challenge can be done with any tool of your choice. 
 ## 📖 Table of Contents  
 1. [[Challenge 1: Converting Student Records from Word to Excel]] (https://github.com/TheOlaoluwaMercy/Excel-Challenge-by-TheMercyOlaoluwa/tree/main#challenge-1)
 
