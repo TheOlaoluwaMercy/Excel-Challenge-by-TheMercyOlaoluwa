@@ -34,6 +34,8 @@ A school has stored its student records in a **Word document** (Slide 1), but th
 ![Current Format in Word](https://github.com/user-attachments/assets/a12bc480-8358-4121-ad62-2d4c4e0245ab)
 #### ✅ Desired Format (Structured Data in Excel)  
 ![Desired Format in Excel](https://github.com/user-attachments/assets/c08af47c-bc1f-42c4-b411-eeb1641395da)
+
+### [Download document](https://github.com/TheOlaoluwaMercy/Excel-Challenge-by-TheMercyOlaoluwa/raw/refs/heads/main/Challenge%202.docx)
 ### 💡 Your Task  
 1. Extract the student records from the Word document.  
 2. Transform the data into the structured format shown in the sample spreadsheet.  
