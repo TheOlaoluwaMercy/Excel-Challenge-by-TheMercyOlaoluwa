@@ -9,7 +9,9 @@ Weekly Revenue Breakdown Per Month
 A client needs a weekly revenue breakdown for each month. The challenge is to calculate revenue per week while considering that some weeks do not have a full 7 days.
 ### Data Format:
 You have a dataset containing transaction dates and revenue amounts. 
-<img width="217" alt="image" src="https://github.com/user-attachments/assets/3048cdb1-287a-499f-9d93-c0f7044ccc90" />
+<img width="217" alt="image" src="https://github.com/user-attachments/assets/3048cdb1-287a-499f-9d93-c0f7044ccc90" 
+### Output:
+A solution that shows revenue for selected month, revenue for previous month, variance and % variance. The monthly revenue should be split into week 1 to week 5/6 as the case may be. Weeks with incomplete days should be somehow indicated. 
 
 ## Challenge 2: 
 Converting Student Records from Word to Excel
