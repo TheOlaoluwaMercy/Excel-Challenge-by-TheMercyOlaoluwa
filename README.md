@@ -10,9 +10,11 @@ Weekly Revenue Breakdown Per Month
 Show monthly revenue by weekly breakdown. The challenge is to calculate revenue per week for each month while considering that some weeks do not have a full 7 days.
 ### Data Format:
 You have a dataset containing transaction dates and revenue amounts. 
+
+<img width="217" alt="Screenshot 2025-03-14 051146" src="https://github.com/user-attachments/assets/151a39b4-150f-4ff2-8e5a-e4cba3af5079" />
+
 ### [Downoad Dataset](https://docs.google.com/spreadsheets/d/1XCYzcFLq38gpIRk-SRjqzSTWb0o11IyvkY1uAYifLRk/edit?usp=sharing)
 Click the link. Go to file, then click on download. Don't request for access
-<img width="217" alt="Screenshot 2025-03-14 051146" src="https://github.com/user-attachments/assets/151a39b4-150f-4ff2-8e5a-e4cba3af5079" />
 
 ### Output:
 A solution that shows total revenue for selected month, revenue for previous month, variance and % variance. The monthly revenue should be split into week 1 to week 5/6 as the case may be. Weeks with incomplete days should be somehow indicated. 
