@@ -37,7 +37,7 @@ A school has stored its student records in a **Word document** (Slide 1), but th
 ### 💡 Your Task  
 1. Extract the student records from the Word document.  
 2. Transform the data into the structured format shown in the sample spreadsheet.  
-3. Use **Excel or any tool of your choice** (Power Query, VBA, Python, etc.).  
+3. Use any tool of your choice.  
 4. Share your approach and solution.
 ### 📢 How to Participate  
 Solve the challenge.  
