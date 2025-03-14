@@ -2,7 +2,7 @@
 Weekly real-world data analysis challenge to test your data analysis skills. The challenge can be done with any tool of your choice. 
 ## 📖 Table of Contents  
 2. [[Challenge 2: Converting Student Records from Word to Excel]] (https://github.com/TheOlaoluwaMercy/Excel-Challenge-by-TheMercyOlaoluwa/tree/main#challenge-1)
-
+## Challenge 1: 
 ## Challenge 2: 
 Converting Student Records from Word to Excel
 ### 📝 Scenario: 
