@@ -4,7 +4,13 @@ Weekly real-world data analysis challenge to test your data analysis skills. The
 1. [[Challenge 1: Converting Student Records from Word to Excel]] (https://github.com/TheOlaoluwaMercy/Excel-Challenge-by-TheMercyOlaoluwa/blob/main/README.md#challenge-1)
 2. [[Challenge 2: Converting Student Records from Word to Excel]] (https://github.com/TheOlaoluwaMercy/Excel-Challenge-by-TheMercyOlaoluwa/tree/main#challenge-1)
 ## Challenge 1:
-Computing weekly sales
+Weekly Revenue Breakdown Per Month
+### 📝 Scenario: 
+A client needs a weekly revenue breakdown for each month. The challenge is to calculate revenue per week while considering that some weeks do not have a full 7 days.
+### Data Format:
+You have a dataset containing transaction dates and revenue amounts. 
+<img width="217" alt="image" src="https://github.com/user-attachments/assets/3048cdb1-287a-499f-9d93-c0f7044ccc90" />
+
 ## Challenge 2: 
 Converting Student Records from Word to Excel
 ### 📝 Scenario: 
