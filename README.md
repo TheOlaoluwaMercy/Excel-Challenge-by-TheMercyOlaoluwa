@@ -1,4 +1,4 @@
-# Data-Challenge-by-TheMercyOlaoluwa
+# Data-Challenge-with-TheMercyOlaoluwa
 Weekly real-world data analysis challenge to test your data analysis skills. The challenge can be done with any tool of your choice. 
 ## 📖 Table of Contents 
 1. [Challenge 1: Weekly Revenue Breakdown Per Month](https://github.com/TheOlaoluwaMercy/Excel-Challenge-by-TheMercyOlaoluwa/blob/main/README.md#challenge-1)
